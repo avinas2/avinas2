@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soc l' Àlex Viñas</h1>
+<img src=https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif>
+<h1 align="center"></h1>
 <h3 align="center">Estudiant de DAW</h3>
 
 - 📫 Contacta **avinas@cendrassos.net**
-
 - ⚡ Fun fact **null**
 
 <h3 align="left">Em pots trobar a:</h3>
