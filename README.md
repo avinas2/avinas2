@@ -1,11 +1,9 @@
-<h1 align="center">Hola 👋, soy Alex Viñas</h1>
-<h3 align="center">Estudiante de DAW</h3>
+<h1 align="center">Hola 👋, soc l' Àlex Viñas</h1>
+<h3 align="center">Estudiant de DAW</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinas2&label=Visitas%20al%20Perfil&color=0f2bff&style=flat-square" alt="avinas2" /> </p>
+- 📫 Contacta **avinas@cendrassos.net**
 
-- 📫 Contacto **avinas@cendrassos.net**
-
-- ⚡ Fun fact **Nada**
+- ⚡ Fun fact **null**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
