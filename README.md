@@ -1,4 +1,66 @@
-<h1 align="center">Hola 👋, soc l'Àlex Viñas</h1>
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        /* your CSS */
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    @keyframes animacio {
+    0 {
+      transform: translateX(-50%) translateY(-50%) rotate(0deg);
+    }
+    100% {
+      transform: translateX(-50%) translateY(-50%) rotate(360deg);
+    }
+  }
+  .alex {
+    color: #fffbf1;
+    text-shadow: 0 20px 25px #2e2e31, 0 40px 60px #2e2e31;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: -3px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  }
+  
+  .alex:before,
+  .alex:after {
+    content: '';
+    padding: .9em .4em;
+    position: absolute;
+    left: 50%;
+    width: 100%;
+    top: 50%;
+    display: block;
+    border: 15px solid red;
+    transform: translateX(-50%) translateY(-50%) rotate(0deg);
+    animation: 10s infinite alternate ease-in-out animacio;
+  }
+  
+  .alex:before {
+    border-color: #d9524a #d9524a rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+    z-index: -1;
+  }
+  
+  .alex:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #d9524a #d9524a;
+    box-shadow: 25px 25px 25px rgba(46, 46, 49, .8);
+  }
+      </style>
+
+      <!--HTML -->
+              <a class="alex">ALEX</a>
+
+        <h1 align="center">Hola 👋, soc l'Àlex Viñas</h1>
 <h3 align="center">Estudiant de DAW</h3>
 
 - 📫 Contacta **avinas@cendrassos.net**
@@ -16,3 +78,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinas2&show_icons=true&locale=es&layout=compact" alt="avinas2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinas2&show_icons=true&theme=dark&locale=es" alt="avinas2" /></p>
+
+
+    </div>
+  </foreignObject>
+</svg>
