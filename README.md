@@ -3,7 +3,10 @@
 
 - 📫 Contacta **avinas@cendrassos.net**
 
+- 🌐 Discord **ALEEXITO#0867**
+
 - ⚡ Fun fact **null**
+
 
 <h3 align="left">Contacta'm:</h3>
 <p align="left">
