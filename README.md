@@ -33,9 +33,6 @@ Soc l'Alex, estudiant de 2n de DAW
   <a href="https://github.com/avinas2" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="35" />
 </a>
-<a href="https://twitter.com/aleexito93" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" height="35" />
-</a>  
 </div>
 
 ### Estadistiques 🏆
